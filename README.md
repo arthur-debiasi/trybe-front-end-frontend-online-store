@@ -2,6 +2,12 @@
 
 ## 💻 Project
 
+Simplified application, without database persistence, of an online store, where it is possible to:
+
+- Search for products by terms and categories from the MercadoLibre API;
+- Interact with the products sought in order to add and remove them from a shopping cart in different quantities;
+- View details and previous reviews of a product, as well as create new reviews;
+- Finalize the (simulated) purchase of the selected items.
 
 ## 🚀 Built With
 
@@ -10,6 +16,8 @@
 
 ## 📌 Skills
 
+- Agile, Kanban and Scrum Methodologies;
+- Practice skills such as using React, React Router, consuming APIs, etc.
 
 ## Getting Started
 
